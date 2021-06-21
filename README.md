@@ -5,7 +5,7 @@ Antes de comenzar a usar la app
 
 1ro: Modifica el .env agregando tus propias keys de mapBox y openWeather
 
-intala las dependencias 
+instala las dependencias 
 
 "axios"
 "colors"
